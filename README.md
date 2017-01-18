@@ -1,5 +1,5 @@
 # Learning Rust
-I want to learn Rust, let's do it the "Right Way"
+##### I want to learn Rust, let's do it the "Right Way"
 
 ## Rust's tools
 There are a few different tools, both official and community controlled that I feel it'll be important to keep an eye on and play around with. I'll try to list some of the, subjectively, most important...
@@ -47,3 +47,27 @@ $ neon new my-project
 
 ### [RuRu](https://github.com/d-unseductable/ruru)
 Like Neon, except now Rust can interop with Ruby. Woah.
+
+## Goals
+
+1) By the time I'm "finished", I will have essentially made a lesson plan that others can use to also learn Rust.
+
+2) I'll have code examples I can reference later. This by itself is worth the work. It's impossible to remember everything you learn.
+
+3) This is my way of keeping myself on a learning schedule. If I haven't made any significant progress in learning Rust, it'll be obvious and I can reevaluate how I'm going about learning.
+
+### Project Ideas
+I think the best learning is done experientially. Everyone, of course, learns in their own way - learning by doing is what works for me. Because of this I'll try tackling a few projects, which I'll add as submodules to this repo. Each one will be a lesson plan as well as just me figuring out how to do things and making notes along the way. I imagine a lot of these notes will be obvious to most, but it's better to be overly verbose than leave ambiguity and a sense of 'magical happenings' prevent a greater understanding.
+
+#### Unix Pipes and Command Line Tools
+There's not much more useful that a solid set of CLI tools. Being able to chain these tools with Pipes, playing with Standard IO, traversing Directories and manipulating Files is the foundation of usefulness.
+
+#### SDL2 and Rust
+Video games are awesome, and SDL2 is all about that and so much more. In addition to playing sounds, collecting keyboard and mouse events and displaying graphics, combining Rust and SDL is a journey into learning how bridging from Rust into C actually works.
+
+#### Rust and Neon (Node.JS)
+Node.JS is great, learn some Rust+Node.
+
+#### Rust and Ruby (RuRu)
+Fuck yes, Ruby.
+
